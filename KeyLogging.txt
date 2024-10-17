@@ -1,0 +1,4 @@
+12345[ENTER]
+abcdef[Key.backspace][ENTER]
+[Key.shift]!@#$%^&*()_+[ENTER]
+ [Key.shift_r]<>?[Key.ctrl_l][Key.alt_gr][Key.cmd][Key.num_lock]`[Key.esc]
